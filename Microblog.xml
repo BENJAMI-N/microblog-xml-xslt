@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<microblog>
+    <post>
+        <author name="Yawson Benjamin">
+            <username>Yawsonbenjamin8340</username>
+        </author>
+        <content>
+            <text>Welcome to our microblogging service!</text>
+            <image>
+                <url>https://img.freepik.com/free-photo/nature-tranquil-beauty-reflected-calm-water-generative-ai_188544-12798.jpg</url>
+                <caption>Nature tranquil beauty reflected in calm water generative ai</caption>
+            </image>
+            <tags>
+                <tag>#firstpost</tag>
+                <tag>#hiworld</tag>
+            </tags>
+        </content>
+        <timestamp>2024-03-25T2:00:00</timestamp>
+        <likes>1k</likes>
+        <comments>
+            <comment>
+                <author>Brenade Lucy</author>
+                <text>Wow! Great job!</text>
+            </comment>
+            <comment>
+                <author>Felilola Denywo</author>
+                <text>Beautiful</text>
+            </comment>
+            <comment>
+                <author>Jadden</author>
+                <text>This is so serene.</text>
+            </comment>
+            <comment>
+                <author>Precious</author>
+                <text>Amazing!</text>
+            </comment>
+            <comment>
+                <author>Benjamin</author>
+                <text>Awesome!</text>
+            </comment>
+            <comment>
+                <author>Agyei</author>
+                <text>Love it !</text>
+            </comment>
+            <comment>
+                <author>John</author>
+                <text>Great photo!</text>
+            </comment>
+            <comment>
+                <author>Estella</author>
+                <text>Amazing!</text>
+            </comment>
+<comment>
+                <author>Joshua</author>
+                <text>Lovely!</text>
+            </comment>
+            <comment>
+                <author>Sonia</author>
+                <text>Amazing!</text>
+            </comment>
+<comment>
+                <author>Vincent</author>
+                <text>Crazy looking!</text>
+            </comment>
+            <comment>
+                <author>Peter</author>
+                <text>Beautiful</text>
+            </comment>
+<comment>
+                <author>Jade</author>
+                <text>Great photo!</text>
+            </comment>
+            <comment>
+                <author>Kane</author>
+                <text>Amazing!</text>
+            </comment>
+        </comments>
+    </post>
+</microblog>
